@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "395oiEOqchWCsaAsZkNb1DtiHKSbZWyWThAImPt0FJY=",
+  "Source": "Northwind.SSMS",
+  "BasePath": "_content/Northwind.SSMS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
